@@ -14,7 +14,7 @@ The exposed models aren't limited to coding tasks—you can connect any AI clien
 - Be mindful of the risk of being banned by GitHub Copilot for misuse.
 
 
-## 🏃‍♂️ How to Run
+## How to Run
 
 1. Get the refresh token
 
@@ -62,10 +62,10 @@ The exposed models aren't limited to coding tasks—you can connect any AI clien
 
 3. Alternatively, use the `refresh-token.sh` script to automate the above.
 
-## ✨ Magic Time
+## Magic Time
 Now you can connect Cline or any other AI client to `http://localhost:15432` and start coding with the power of GPT-4o and Claude-3.5-Sonnet without worrying about the cost. Note, the copilot-more manages the access token, you can use whatever string as API keys if Cline or the AI tools ask for one.
 
-### 🚀 Cline Integration
+### Cline Integration
 
 1. Install Cline `code --install-extension saoudrizwan.claude-dev`
 2. Open Cline and go to the settings
@@ -76,7 +76,7 @@ Now you can connect Cline or any other AI client to `http://localhost:15432` and
      * **Model**: `gpt-4o`, `claude-3.5-sonnet`, `o1`, `o1-mini`
 
 
-## 🔍 Debugging
+## Debugging
 
 For troubleshooting integration issues, you can enable traffic logging to inspect the API requests and responses.
 
@@ -94,7 +94,7 @@ Attach this file when reporting issues.
 
 Note: the Authorization header has ben redacted. So the refresh token won't be leaked.
 
-## 🤔 Limitation
+## Limitation
 
 The GH Copilot models sit behind an API server that is not fully compatible with the OpenAI API. You cannot pass in a message like this:
 
