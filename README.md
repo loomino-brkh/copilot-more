@@ -1,3 +1,7 @@
+# Fork Reason
+
+FOR MY PERSONAL USE ONLY, DO NOT USE THIS FOR YOURSELF!! I AM NOT RESPONSIBLE IF YOU GOT BANNED BY GIHUB.
+
 # copilot-more
 
 `copilot-more` maximizes the value of your GitHub Copilot subscription by exposing models like gpt-4o and Claude-3.5-Sonnet for use in agentic coding tools such as Cline, or any tool that supports bring-your-own-model setups. Unlike costly pay-as-you-go APIs, this approach lets you leverage these powerful models affordably. (Yes, $10 per month maximum.)
